@@ -104,7 +104,7 @@ const ResetPassword = () => {
 
           <p className="text-center mt-2 text-sm">
             Remember your password?{" "}
-            <Link to="/login" className="font-bold ms-1">
+            <Link to="/login" className="font-bold ms-1 no-underline">
               Login
             </Link>
           </p>

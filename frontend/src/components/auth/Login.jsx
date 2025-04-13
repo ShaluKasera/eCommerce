@@ -93,12 +93,12 @@ const Login = () => {
             Login
           </button>
           <p className="text-end mt-2">
-            <Link to="/forgot-password">Forgot Password</Link>
+            <Link to="/forgot-password" className="no-underline">Forgot Password</Link>
           </p>
 
           <p className="text-center mt-2">
             Doesn't have account ?{" "}
-            <Link to="/signup" className="ms-2">
+            <Link to="/signup" className="ms-2 no-underline">
               Resgister Now
             </Link>
           </p>

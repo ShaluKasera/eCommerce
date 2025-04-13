@@ -16,4 +16,7 @@
 .collapse {
     visibility: visible !important;
   }
+  .no-underline {
+    text-decoration: none !important;
+  }
   
